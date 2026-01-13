@@ -41,7 +41,8 @@ Snowflake → Power BI (DirectQuery / Import) → Interactive Dashboard
 ---
 
  🎥 Dashboard Preview
-(See video and screenshots folders)
+<img width="1330" height="739" alt="Screenshot 2026-01-13 091240" src="https://github.com/user-attachments/assets/14790161-ec9a-4a43-a6e4-a3a4778c20cb" />
+
 
 ---
 
